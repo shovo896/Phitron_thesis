@@ -7,11 +7,17 @@ Main files:
 - `main.tex`: IEEE-style journal draft with model architecture and hardware architecture diagrams.
 - `references.bib`: BibTeX references.
 - `budget_and_evaluation.tex`: Bangladesh marketplace-style budget and experimental planning file with BDT ranges.
+- `project_proposal.tex`: full thesis/project proposal with objectives, methodology, architecture, timeline, risks, and budget summary.
 
-Recommended Overleaf settings:
+Recommended Overleaf settings for journal paper:
 
 - Compiler: pdfLaTeX
 - Main document: `main.tex`
+
+Recommended Overleaf settings for project proposal:
+
+- Compiler: pdfLaTeX
+- Main document: `project_proposal.tex`
 
 Before submission:
 
